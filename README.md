@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @Dipanshu9385
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m intrested in Full Stack developer, MERN Developer
+- 🌱 I’m currently learning React JS 
+- 💞️ I’m looking to Intern
+- 📫 dipanshuyadav9385@gmail.com & 8955421785(whatsapp)
+- 
 
 <!---
-Dipanshu9385/Dipanshu9385 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Dipanshu9385/ I'm Dipanshu9385(fresher)
+I have a good knowledge of HTML , CSS , JavaScript , Git and basic of React JS
+currently i am leraning MERN Development.
+i am looking a front End intern......
 --->
