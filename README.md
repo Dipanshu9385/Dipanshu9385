@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Dipanshu9385
 - 👀 I’m intrested in Full Stack developer, MERN Developer
-- 🌱 I’m currently learning React JS 
-- 💞️ I’m looking to Intern
 - 📫 dipanshuyadav9385@gmail.com & 8955421785(whatsapp)
 - 
 
